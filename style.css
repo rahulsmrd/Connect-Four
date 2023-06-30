@@ -1,0 +1,54 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container {
+    margin: auto;
+    width: 55%;
+}
+
+.slots {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(163, 163, 163);
+    border: 5px solid black;
+    border-radius: 100px;
+}
+
+.h1 {
+    font-size: 80px;
+    text-align: center;
+    margin: 0;
+}
+
+h2 {
+    font-size: 40px;
+    text-align: center;
+    margin: 0;
+}
+
+p {
+    font-size: 40px;
+    text-align: center;
+    margin: 10px 0 20px 0;
+}
+
+#restart {
+    font-size: 30px;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: rgb(13, 110, 253);
+    color: white;
+    font-weight: 100px;
+    margin:2em auto 2em auto;
+}
+
+#restart:hover {
+    background-color: rgb(37, 124, 254);
+}
+.turnred{
+    font-size: 80px;
+    text-align: center;
+    margin: 0;
+    color: red;
+}
